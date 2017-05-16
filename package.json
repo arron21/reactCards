@@ -1,0 +1,22 @@
+{
+  "name": "cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-shopify-upload": "^2.0.0",
+    "gulp-watch": "^4.3.11",
+    "vue": "^2.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./tests.js",
+    "start": "node ./server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
